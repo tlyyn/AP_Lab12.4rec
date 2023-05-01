@@ -1,2 +1,2 @@
 ﻿  UnitTest2.cpp
-C:\Users\linta\source\repos\AP_Lab12.4rec\UnitTest2\UnitTest2.cpp(80,1): fatal  error C1010: unexpected end of file while looking for precompiled header. Did you forget to add '#include "pch.h"' to your source?
+C:\Users\linta\source\repos\AP_Lab12.4rec\UnitTest2\UnitTest2.cpp(24,1): fatal  error C1010: unexpected end of file while looking for precompiled header. Did you forget to add '#include "pch.h"' to your source?
